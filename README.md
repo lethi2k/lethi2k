@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lethi2k&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lethi&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lethi2k&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lethi2k&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lethi2k&theme=tokyonight)
